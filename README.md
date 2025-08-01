@@ -26,7 +26,9 @@ I'm **Kevin Egídio de Toledo**, a passionate Data Scientist and AI enthusiast, 
 I’m always looking to learn, grow professionally, and work on projects that make a real impact.
 
 ### 📫 Contact me
-Feel free to connect with me here or on [LinkedIn]([https://www.linkedin.com/in/kevin-egidio-de-toledo/]).
+Feel free to connect with me here or on [LinkedIn](https://www.linkedin.com/in/kevin-egidio-de-toledo/)
+
+📞contact: +5511995314523
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
