@@ -28,7 +28,8 @@ I’m always looking to learn, grow professionally, and work on projects that ma
 ### 📫 Contact me
 Feel free to connect with me here or on [LinkedIn](https://www.linkedin.com/in/kevin-egidio-de-toledo/)
 ##
-📞contact: +5511995314523  
+📞 contact: +5511995314523    
+📧 Email: kevinegidio7@outlook.com
 #
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
